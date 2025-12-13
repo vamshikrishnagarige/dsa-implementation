@@ -8,6 +8,7 @@ bin/
 *.class
 
 # Eclipse (if project came from Eclipse)
+/target/
 .settings/
 .project
 .classpath
