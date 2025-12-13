@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.vamshi.dsa</groupId>
-    <artifactId>JavaDsaImplementation</artifactId>
+    <artifactId>java-dsa-implementation</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
