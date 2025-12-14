@@ -1,4 +1,4 @@
-package org.vamshi.dsa;
+package com.vamshi.dsa;
 
 /**
  * Author: Vamshi Krishna Garige
